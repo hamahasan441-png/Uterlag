@@ -25,7 +25,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 13 0 R /Resources 3 0 R >>
 endobj
 9 0 obj
-<< /Length 3826 >>
+<< /Length 3805 >>
 stream
 BT /F2 16 Tf 50 791.89 Td (ANLAGE KDU) Tj ET
 BT /F2 12 Tf 50 777.89 Td (Kosten der Unterkunft und Heizung) Tj ET
@@ -62,7 +62,7 @@ BT /F1 10 Tf 250 482.89 Td (2 Zimmer) Tj ET
 BT /F2 10 Tf 50 468.89 Td (Feld 13 - Einzugsdatum:) Tj ET
 BT /F1 10 Tf 250 468.89 Td (15.07.2026) Tj ET
 BT /F2 10 Tf 50 454.89 Td (Feld 14 - Etage/Stockwerk:) Tj ET
-BT /F1 10 Tf 250 454.89 Td (_______________) Tj ET
+BT /F1 10 Tf 250 454.89 Td (EG \(Erdgeschoss\)) Tj ET
 BT /F2 10 Tf 50 426.89 Td (Feld 15 - Art der Wohnung:) Tj ET
 BT /F1 10 Tf 50 412.89 Td ([X] Mietwohnung) Tj ET
 BT /F1 10 Tf 50 398.89 Td ([ ] Eigentumswohnung) Tj ET
@@ -80,12 +80,12 @@ BT /F1 10 Tf 250 267.89 Td (80339) Tj ET
 BT /F2 10 Tf 50 253.89 Td (Feld 19 - Ort:) Tj ET
 BT /F1 10 Tf 250 253.89 Td (Muenchen) Tj ET
 BT /F2 10 Tf 50 239.89 Td (Feld 20 - Telefon:) Tj ET
-BT /F1 10 Tf 250 239.89 Td (_______________) Tj ET
+BT /F1 10 Tf 250 239.89 Td (---) Tj ET
 BT /F2 10 Tf 50 211.89 Td (Feld 21 - Bankverbindung des Vermieters:) Tj ET
 BT /F2 10 Tf 50 197.89 Td (  IBAN:) Tj ET
 BT /F1 10 Tf 250 197.89 Td (DE80 7007 0024 0805 1328 00) Tj ET
 BT /F2 10 Tf 50 183.89 Td (  BIC:) Tj ET
-BT /F1 10 Tf 250 183.89 Td (_______________) Tj ET
+BT /F1 10 Tf 250 183.89 Td (---) Tj ET
 BT /F2 10 Tf 50 169.89 Td (  Kontoinhaber:) Tj ET
 BT /F1 10 Tf 250 169.89 Td (Amela/Nihad Suljevic) Tj ET
 BT /F2 11 Tf 50 141.89 Td (ABSCHNITT 4: Monatliche Unterkunftskosten) Tj ET
@@ -100,12 +100,12 @@ BT /F1 10 Tf 250 66.89 Td (in Nebenkosten enthalten) Tj ET
 endstream
 endobj
 10 0 obj
-<< /Length 873 >>
+<< /Length 863 >>
 stream
 BT /F2 10 Tf 50 791.89 Td (Feld 25 - Warmwasserkosten:) Tj ET
 BT /F1 10 Tf 250 791.89 Td (in Nebenkosten enthalten) Tj ET
 BT /F2 10 Tf 50 777.89 Td (Feld 26 - Sonstige Nebenkosten:) Tj ET
-BT /F1 10 Tf 250 777.89 Td (_______________) Tj ET
+BT /F1 10 Tf 250 777.89 Td (keine) Tj ET
 BT /F2 10 Tf 50 749.89 Td (Feld 27 - Nebenkosten gesamt:) Tj ET
 BT /F1 10 Tf 250 749.89 Td (200,00 EUR) Tj ET
 50 735.89 m 545.28 735.89 l S
@@ -226,12 +226,12 @@ xref
 0000000687 00000 n 
 0000000798 00000 n 
 0000000909 00000 n 
-0000004787 00000 n 
-0000005712 00000 n 
-0000009207 00000 n 
-0000009815 00000 n 
+0000004766 00000 n 
+0000005681 00000 n 
+0000009176 00000 n 
+0000009784 00000 n 
 trailer
 << /Size 14 /Root 1 0 R >>
 startxref
-10930
+10899
 %%EOF
